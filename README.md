@@ -4,6 +4,28 @@ I’m a software engineer focused on full-stack development. I enjoy learning ne
 
 I’ve worked with Python, Java, TypeScript, JavaScript, Vue.js, Angular, Django, Spring Boot, Ionic, Docker, and Linux. I’m currently freelancing and continuing to build with Django and modern frontend tools.
 
+## GitHub statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/overview.dark.svg" />
+  <img alt="GitHub overview statistics" src="./profile-stats/overview.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/contributions.dark.svg" />
+  <img alt="GitHub contribution history and streaks" src="./profile-stats/contributions.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/composition.dark.svg" />
+  <img alt="Breakdown of GitHub contributions by type" src="./profile-stats/composition.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/languages.dark.svg" />
+  <img alt="Programming languages across public repositories" src="./profile-stats/languages.light.svg" width="100%" />
+</picture>
+
 ## Selected projects
 
 ### GradeFlow (student-grades)
@@ -129,28 +151,6 @@ Worked on Nova Light, a lightweight edition of Cuba’s Nova GNU/Linux distribut
 ## Languages
 
 Spanish (native) · English (C1)
-
-## GitHub statistics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/overview.dark.svg" />
-  <img alt="GitHub overview statistics" src="./profile-stats/overview.light.svg" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/contributions.dark.svg" />
-  <img alt="GitHub contribution history and streaks" src="./profile-stats/contributions.light.svg" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/composition.dark.svg" />
-  <img alt="Breakdown of GitHub contributions by type" src="./profile-stats/composition.light.svg" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/languages.dark.svg" />
-  <img alt="Programming languages across public repositories" src="./profile-stats/languages.light.svg" width="100%" />
-</picture>
 
 ## Publications and recognition
 
