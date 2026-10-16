@@ -130,6 +130,28 @@ Worked on Nova Light, a lightweight edition of Cuba’s Nova GNU/Linux distribut
 
 Spanish (native) · English (C1)
 
+## GitHub statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/overview.dark.svg" />
+  <img alt="GitHub overview statistics" src="./profile-stats/overview.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/contributions.dark.svg" />
+  <img alt="GitHub contribution history and streaks" src="./profile-stats/contributions.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/composition.dark.svg" />
+  <img alt="Breakdown of GitHub contributions by type" src="./profile-stats/composition.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-stats/languages.dark.svg" />
+  <img alt="Programming languages across public repositories" src="./profile-stats/languages.light.svg" width="100%" />
+</picture>
+
 ## Publications and recognition
 
 - Co-author, [“Cuban GNU/Linux Nova Distribution for Server Computers”](https://www.researchgate.net/publication/282769958_Cuban_GNULinux_Nova_Distribution_for_Server_Computers), 2014.

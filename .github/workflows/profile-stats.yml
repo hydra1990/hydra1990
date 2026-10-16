@@ -1,0 +1,26 @@
+name: Update profile statistics
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1.14.2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: hydra1990
+          cards: overview,contributions,composition,languages
+          output-dir: profile-stats
+          themes: light,dark
+          commit: true
