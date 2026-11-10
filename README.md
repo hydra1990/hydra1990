@@ -150,7 +150,7 @@ Worked on Nova Light, a lightweight edition of Cuba’s Nova GNU/Linux distribut
 
 ## Languages
 
-Spanish (native) · English (C1)
+Spanish (native) · English (C2)
 
 ## Publications and recognition
 
